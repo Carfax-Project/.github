@@ -11,7 +11,8 @@ Carfax Project rewrites the engines of beloved old adventure games so they run o
 ### Projects
 
 **[Dracula Engine](https://github.com/Carfax-Project/dracula-engine)**: plays *Dracula: The Resurrection* (1999) and *Dracula 2: The Last Sanctuary* (2000) on Windows and Linux.
-[Download](https://github.com/Carfax-Project/dracula-engine/releases/latest) · [Trailer](https://youtu.be/nuQ5kYxeZck)
+
+[Download](https://github.com/Carfax-Project/dracula-engine/releases/latest) · [Trailer](https://youtu.be/pVN8Wh2C3c8)
 
 ---
 
